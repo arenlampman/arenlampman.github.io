@@ -31,7 +31,7 @@ Based in the United States
 
 ## Data Projects
 
-### Pre-Covid-19 Housing Prices vs Unemployment Rates Correlation Project (2026)
+### [Pre-Covid-19 Housing Prices vs Unemployment Rates Correlation Project](https://github.com/arenlampman/Snow-Water-Equivalent-Climate-Change-Analysis) (2026)
 - Performed **time series analyses** in **R** to examine correlation strengths between pre-Covid housing prices and unemployment levels.
 - Uncovered strong two and sixth month lagged negative correlations between pre-Covid housing and unemployment.
 - Utilized the **Tidyverse** package to clean and extract the needed data.
