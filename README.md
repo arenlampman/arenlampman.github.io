@@ -37,7 +37,7 @@ Based in the United States
 - Utilized the **Tidyverse** package to clean and extract the needed data.
 - Compiled findings in a **Markdown** report.
 
-### Sports Expenditure Analysis (2025)
+### [Sports Expenditure Analysis](https://github.com/arenlampman/Sports-Expenditure-Analysis) (2025)
 - Used **R** to compile and analyze 2021 sports expenditure data across multiple universities.
 - Utilized the **Tidyverse** package to clean and extract data.
 - Uncovered evidence of spending biases on intercollegiate athletes.
