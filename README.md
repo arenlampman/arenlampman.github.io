@@ -31,7 +31,7 @@ Based in the United States
 
 ## Data Projects
 
-### [Pre-Covid-19 Housing Prices vs Unemployment Rates Correlation Project](https://github.com/arenlampman/Snow-Water-Equivalent-Climate-Change-Analysis) (2026)
+### [Pre-Covid-19 Housing Prices vs Unemployment Rates Correlation Project](https://github.com/arenlampman/Pre-Covid-19-Unemployment-Rates-vs-Housing-Prices-Time-Series-Analysis) (2026)
 - Performed **time series analyses** in **R** to examine correlation strengths between pre-Covid housing prices and unemployment levels.
 - Uncovered strong two and sixth month lagged negative correlations between pre-Covid housing and unemployment.
 - Utilized the **Tidyverse** package to clean and extract the needed data.
@@ -43,7 +43,7 @@ Based in the United States
 - Uncovered evidence of spending biases on intercollegiate athletes.
 - Compiled findings in a **Markdown** report, emphasizing visual observations with **GGPlot**
 
-### Snow-Water Equivalent Level Project (2025)
+### [Snow-Water Equivalent Level Project](https://github.com/arenlampman/Snow-Water-Equivalent-Climate-Change-Analysis) (2025)
 - Conducted **exploratory data analysis** in **R** to investigate the change in Oregon snow-water equivalent levels from 1992 – 2022.
 - Utilized the Tidyverse package to clean and extract data.
 - Conducted **statistical analysis** to determine maximum snow-water equivalent trends.
